@@ -1,5 +1,5 @@
 # Kaggle-Clubhouse-Dataset
-EDA and viz of clubhouse app users
+**Simple Exploratory Data Analysis of Clubhouse App Users Dataset to get insights of Clubhouse Users Demographic and Social Media Account**
 
 Dataset: https://www.kaggle.com/johntukey/clubhouse-dataset
 
